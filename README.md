@@ -1,3 +1,3 @@
 Mini racing game
 
-Used python Packet: turtle
+Used python Packet: turtle .
